@@ -1,0 +1,44 @@
+Last login: Mon Feb 12 11:18:06 on ttys001
+Daviss-MacBook-Pro:~ davislee$ bash -c 'clear; cd "/Users/davislee/projects/API/APItest"; export ASPNETCORE_URLS="http://localhost:5000/"; "/usr/local/share/dotnet/dotnet" "/Users/davislee/projects/API/APItest/bin/Debug/netcoreapp2.0/APItest.dll" ; echo $? > /var/folders/89/y4tqpkfx5s36kp9jg10qr7nh0000gn/T/tmp74c6665f.tmp; echo; read -p "Press any key to continue..." -n1; exit'; exit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is the zipcode you would like to lookup? 37212
+
+37212
+NASHVILLE
+TN
+
+Press any key to continue...alogout
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+[Process completed]
+
+
+
+
+
+
+
+
+
+
+

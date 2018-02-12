@@ -1,0 +1,13 @@
+/Users/davislee/projects/API/APItest/bin/Debug/netcoreapp2.0/APItest.deps.json
+/Users/davislee/projects/API/APItest/bin/Debug/netcoreapp2.0/APItest.runtimeconfig.json
+/Users/davislee/projects/API/APItest/bin/Debug/netcoreapp2.0/APItest.runtimeconfig.dev.json
+/Users/davislee/projects/API/APItest/bin/Debug/netcoreapp2.0/APItest.dll
+/Users/davislee/projects/API/APItest/bin/Debug/netcoreapp2.0/APItest.pdb
+/Users/davislee/projects/API/APItest/bin/Debug/netcoreapp2.0/API.dll
+/Users/davislee/projects/API/APItest/bin/Debug/netcoreapp2.0/API.pdb
+/Users/davislee/projects/API/APItest/obj/Debug/netcoreapp2.0/APItest.csprojResolveAssemblyReference.cache
+/Users/davislee/projects/API/APItest/obj/Debug/netcoreapp2.0/APItest.csproj.CoreCompileInputs.cache
+/Users/davislee/projects/API/APItest/obj/Debug/netcoreapp2.0/APItest.AssemblyInfoInputs.cache
+/Users/davislee/projects/API/APItest/obj/Debug/netcoreapp2.0/APItest.AssemblyInfo.cs
+/Users/davislee/projects/API/APItest/obj/Debug/netcoreapp2.0/APItest.dll
+/Users/davislee/projects/API/APItest/obj/Debug/netcoreapp2.0/APItest.pdb
